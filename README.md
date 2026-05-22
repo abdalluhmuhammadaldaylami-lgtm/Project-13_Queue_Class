@@ -118,7 +118,7 @@ The focus of this roadmap is not only learning syntax, but mastering design thin
 
 This Queue implementation is built on top of:
 
-- **Project 15 – Doubly Linked List (C++)**
+- **Project 12 – Doubly Linked List (C++)**
 
 ---
 
